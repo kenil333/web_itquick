@@ -22,9 +22,9 @@ class HttpConf {
         "Content-Type": "application/json",
       },
       body: jsonEncode({
-        "service_id": "service_6b7exgi",
-        "template_id": "template_c6kdbjc",
-        "user_id": "user_B6e0DrulE7apzsaotYD3l",
+        "service_id": "",
+        "template_id": "",
+        "user_id": "",
         "template_params": {
           "full_name": name,
           "email_id": email,
